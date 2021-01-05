@@ -1,4 +1,4 @@
-var	campos	=	[
+/*var	campos	=	[
     document.querySelector('#data'),
     document.querySelector('#valor'),
     document.querySelector('#quantidade')
@@ -26,3 +26,4 @@ campos[2].value	=	0;
 //	foca	no	campo	da	data
 campos[0].focus();
 });
+*/
